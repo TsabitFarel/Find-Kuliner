@@ -3,7 +3,6 @@ package com.example.kulinerapp.RecyclerView
 import android.content.Intent
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.example.kulinerapp.POJO.KulinerItem
 import com.example.kulinerapp.databinding.ItemListMakananBinding

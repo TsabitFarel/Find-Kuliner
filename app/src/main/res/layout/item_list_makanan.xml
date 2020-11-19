@@ -6,6 +6,8 @@
     android:layout_height="wrap_content"
     android:layout_marginStart="8dp"
     android:layout_marginTop="8dp"
+    android:elevation="8dp"
+    app:rippleColor="@color/colorAccent"
     android:backgroundTint="@color/colorPrimaryDark"
     android:layout_marginEnd="8dp"
     android:layout_marginBottom="4dp"

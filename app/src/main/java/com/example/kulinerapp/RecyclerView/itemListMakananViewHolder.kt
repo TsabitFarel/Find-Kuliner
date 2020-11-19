@@ -5,7 +5,6 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.kulinerapp.POJO.KulinerItem
-import com.example.kulinerapp.POJO.ResponseMakanan
 import com.example.kulinerapp.databinding.ItemListMakananBinding
 import com.google.android.material.card.MaterialCardView
 
